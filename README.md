@@ -31,28 +31,28 @@ The overall goal of this presentation is to provide insights into the factors th
 
 **Key Features:**
 
-**Analyze flight delays and cancellations:** Explore the frequency, duration, and reasons for flight delays and cancellations.
-**Evaluate airline performance:** Investigate the on-time arrival and departure rates, average delay times, and other metrics to identify the airlines that perform the best.
-**Examine time and seasonality factors:** Study the effects of,day of the week, month, and season on flight delays and cancellations.
-**Assess distance and routes:** Analyze the relationship between distance of travel and flight performance, as well as the performance of different flight routes.
+**Analyze flight delays and cancellations:** Explore the frequency, duration, and reasons for flight delays and cancellations.<br>
+**Evaluate airline performance:** Investigate the on-time arrival and departure rates, average delay times, and other metrics to identify the airlines that perform the best.<br>
+**Examine time and seasonality factors:** Study the effects of,day of the week, month, and season on flight delays and cancellations.<br>
+**Assess distance and routes:** Analyze the relationship between distance of travel and flight performance, as well as the performance of different flight routes.<br>
 
 **Key insights** 
-What is the distribution of flight delays in minutes?
-How do arrival delays vary by airline?
-Is there a difference in arrival delays between weekday and weekend flights?
-What are the most commonly flown routes?
-What is the distribution of cancelled flights in the dataset ?
-What are the most common reasons for flight cancellations?
-How do different airlines compare in terms of on-time arrivals and departures?
-What is the distribution of flight cancelled by the day of the week?
-How does the average arrival delay vary by day of week?
-How does the distance of a flight affect its arrival delay?
-How does departure delay impact arrival delay for different airlines?
-How does distance affect the relationship between departure delay and arrival delay?
-Is there a correlation between the departure delay time and the arrival delay time, and does this relationship differ depending on the airline or day of the week?
-How does the average arrival delay vary by distance and airline?
-How does the relationship between DepDelay and ArrDelay vary with distance and day of week?
-How does the arrival delay vary across different airlines and months, and is there a significant difference between them?
+What is the distribution of flight delays in minutes?<br>
+How do arrival delays vary by airline?<br>
+Is there a difference in arrival delays between weekday and weekend flights?<br>
+What are the most commonly flown routes?<br>
+What is the distribution of cancelled flights in the dataset ?<br>
+What are the most common reasons for flight cancellations?<br>
+How do different airlines compare in terms of on-time arrivals and departures?<br>
+What is the distribution of flight cancelled by the day of the week?<br>
+How does the average arrival delay vary by day of week?<br>
+How does the distance of a flight affect its arrival delay?<br>
+How does departure delay impact arrival delay for different airlines?<br>
+How does distance affect the relationship between departure delay and arrival delay?<br>
+Is there a correlation between the departure delay time and the arrival delay time, and does this relationship differ depending on the airline or day of the week?<br>
+How does the average arrival delay vary by distance and airline?<br>
+How does the relationship between DepDelay and ArrDelay vary with distance and day of week?<br>
+How does the arrival delay vary across different airlines and months, and is there a significant difference between them?<br>
 
     
 The findings of this analysis can be used to help airlines and airports identify areas for improvement and to make data-driven decisions to reduce flight delays.
@@ -60,4 +60,3 @@ The findings of this analysis can be used to help airlines and airports identify
 
 
 
-# Airline-On-time-Performance
